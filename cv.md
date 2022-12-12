@@ -1,2 +1,5 @@
 # **Aliaksei Keda**
-##
+## **My contact info:**
+* Phone: +375 29 690 79 26
+* E-mail: aaalex-22@bk.ru
+* Instagramm: https://www.instagram.com/alexei_keda/?hl=ru  
