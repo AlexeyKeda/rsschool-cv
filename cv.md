@@ -3,8 +3,8 @@
 ## **My contact info:**
 * Phone: **+375 (29) 690-79-26**
 * E-mail: **aaalex-22@bk.ru**
-* **[Instagramm]**(https://www.instagram.com/alexei_keda/?hl=ru)
-* **[GitHub]**(https://github.com/AlexeyKeda)
+* **[Instagram](https://www.instagram.com/alexei_keda/?hl=ru)**
+* **[GitHub](https://github.com/AlexeyKeda)**
 ## **About myself**
 Hello! My name is **Aliaksei**. I am currently working in the automotive business and want to discover and learn *Frond-and* and **JS**. I like to create something new and useful for people.
 
